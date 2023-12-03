@@ -29,5 +29,3 @@ This section should provide information on how to use the landing page. Include 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-# Travel-Landing-Page
